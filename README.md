@@ -23,5 +23,7 @@ EL formato no esta listo/cómodo para analizar por aquí lo pase a dos CSVs.
 
 Vamos a analizar si la intervención tuvo efecto entre el año 2012 y 2013.  
 
-### Ejercicio 2.2
+### Ejercicio 3.2
+
+![muestra ejercicio 3.2](ejercicio-3.2/sample.png)
 
